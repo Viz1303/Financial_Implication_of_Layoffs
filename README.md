@@ -67,5 +67,3 @@ This project explores these questions through **historical, global, industry, an
 - **Techniques**: Data visualization, trend analysis, comparative analytics, economic storytelling.  
 
 ---
-
-✨ This project demonstrates how **data visualization and storytelling** can transform disconnected events into a coherent narrative of **economic cycles, investor sentiment, and workforce resilience**.
